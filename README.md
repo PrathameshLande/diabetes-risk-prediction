@@ -38,6 +38,14 @@ This project addresses the question:
   - Lifestyle factors (diet, smoking, alcohol, activity)
   - Socioeconomic indicators
 
+### Data Source
+This dataset was obtained from Kaggle:
+- Diabetes Health Indicators Dataset  
+  https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+The dataset is derived from the Behavioral Risk Factor Surveillance System (BRFSS) and contains anonymized, self-reported health and lifestyle information.
+
+
 ---
 
 ## Models Used
